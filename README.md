@@ -6,10 +6,14 @@ The OCTMNIST dataset is a part of the MedMNIST dataset [1]. This dataset contain
 ![alt text](https://github.com/Lithium-Plus/ece228/blob/main/retina_img.jpg)
 ## Installation
 Setup the required environment:
-```conda create --name <env> --file requirements.txt```
+```
+conda create --name <env> --file requirements.txt
+```
 
 Install the medmnist dataset:
-```pip install medmnist```
+```
+pip install medmnist
+```
 ## Code Structure
 There are three training and evaluation scripts of OCTMNIST.
 
